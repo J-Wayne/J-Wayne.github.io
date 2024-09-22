@@ -14,4 +14,3 @@ I am very fortunate to be advised by [Prof. Shifeng Niu](https://js.chd.edu.cn/q
 You can find my CV here: [Wayne Jack's Curriculum Vitae](../assets/章鱼哥简历.pdf).
 
 [Email](mailto:2250768721@qq.com) / [Github](https://github.com/J-Wayne) / [Wechat](../images/wechat.jpg)
-
